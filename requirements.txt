@@ -1,0 +1,4 @@
+Python==3.6 or more
+tensorflow==2.5.0
+loguru==0.7.0
+kerastuner==1.0.1
